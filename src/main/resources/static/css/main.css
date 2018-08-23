@@ -1,0 +1,38 @@
+h1{
+    color:#0000FF;
+}
+
+h2{
+    color:#FF0000;
+}
+
+footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    padding: 30px;
+    margin-left: -162px !important;
+    background-color: dimgray;
+    color: white;
+}
+
+.container, .table {
+    margin-top: 30px;
+}
+
+.table-left {
+    float: left;
+}
+
+.table-right {
+    float: right;
+}
+
+#course-table {
+    width: 400px;
+    cursor: pointer;
+}
+
+#student-table {
+    margin-bottom: 100px;
+}
